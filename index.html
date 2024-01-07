@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Stock Prediction</title>
+</head>
+<body>
+
+   <div class="container">
+    <h1>Stock Value Prediction</h1>
+
+    <form id="predictionForm">
+        <label for="stockSymbol">Stock:</label>
+        <input type="text" id="stockSymbol" placeholder="Enter stock symbol" required>
+
+        <label for="currentStockValue">Current Stock Value:</label>
+        <input type="number" id="currentStockValue" placeholder="Enter current stock value" required>
+
+        <button type="button" onclick="predict()">Predict</button>
+    </form>
+
+    <div id="result"></div>
+
+    <div id="historyContainer"></div>
+</div>
+
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script src="script.js"></script>
+
+</body>
+</html>
