@@ -1,0 +1,40 @@
+Market Prediction Application - App Information
+
+------------------------------
+**Application Overview:**
+------------------------------
+
+Welcome to the Market Prediction Application! This application leverages advanced data analysis techniques to predict market fluctuations, providing users with valuable insights for informed decision-making in the financial landscape.
+
+------------------------------
+**Key Features:**
+------------------------------
+
+1. **Data Analysis:** Utilizes robust algorithms for in-depth analysis of market trends.
+2. **Prediction Models:** Employs advanced models to forecast market fluctuations accurately.
+3. **User-Friendly Interface:** A sleek and intuitive interface for seamless interaction.
+4. **Customization:** Allows users to customize parameters for tailored predictions.
+
+------------------------------
+**How to Use:**
+------------------------------
+
+1. **Installation:**
+   - Clone the repository: `git clone https://github.com/simonAndrea/market-prediction.git`
+   - Navigate to the project directory: `cd market-prediction`
+
+2. **Run the Application:**
+   - Execute the main application script.
+   - Follow any instructions provided in the documentation.
+
+3. **Contribute:**
+   - If you wish to contribute, fork the repository and create a new branch for your feature or bug fix.
+   - Make changes, commit them with descriptive messages, and create a pull request.
+
+------------------------------
+**License:**
+------------------------------
+
+This project is licensed under the GNU General Public License, ensuring its open-source nature and accessibility to the community.
+
+Feel free to explore, contribute, and join us on this exciting journey of predicting market trends!
